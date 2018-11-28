@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Deformoid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    
+    
+    <!--  Materiais  -->
+    
+    
+    <string-array name="materiais_array">
+          <item>GPa</item>
+        <item>Concreto</item>
+        <item>Aço CA-25</item>
+        <item>Ferro Fundido A-48</item>
+        <item>Latão</item>
+        <item>Pinho</item>
+        <item>Eucalipto</item>
+        <item>Poliestireno</item>
+        <item>Titânio</item>
+      
+    </string-array>
+    
+    <string-array name="seccao_array">
+        <item>Retângulo</item>
+        <item>Triângulo</item>
+        <item>Circulo</item>
+        <item>Semicírculo</item>
+        <item>Quadrante</item>
+        <item>Elipse</item>
+    </string-array>
+
+</resources>
